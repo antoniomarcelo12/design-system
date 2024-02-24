@@ -3,7 +3,7 @@ import { styled } from '@stitches/react'
 
 export const Button = styled('button', {
   fontFamily: '$default',
-  backgroundColor: '$ignite300',
+  backgroundColor: 'red',
   borderRadius: '$sm',
   border: 0,
   fontWeight: 'bold',
@@ -23,7 +23,7 @@ export const Button = styled('button', {
   },
 
   defaultVariants: {
-    size: 'small',
+    size: 'big'
   },
 })
 
