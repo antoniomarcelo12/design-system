@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@amb-test-ui"]
+  "ignore": ["@amb-test-ui/docs"]
 }
